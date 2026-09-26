@@ -1,0 +1,908 @@
+cost_university_key,matched_qs_key,match_score
+harvard university,harvard university,100.0
+imperial college london,imperial college london,100.0
+university of toronto,university of toronto,100.0
+university of melbourne,the university of melbourne,92.0
+technical university of munich,technical university of munich,100.0
+university of tokyo,the university of tokyo,90.47619047619048
+university of amsterdam,university of amsterdam,100.0
+national university of singapore,national university of singapore nus,94.11764705882352
+sorbonne university,sorbonne university,100.0
+eth zurich,,
+kth royal institute,,
+university of copenhagen,university of copenhagen,100.0
+tsinghua university,tsinghua university,100.0
+seoul national university,seoul national university,100.0
+trinity college dublin,,
+pusan national university,pusan national university,100.0
+university of auckland,the university of auckland,91.66666666666666
+university of vienna,university of vienna,100.0
+ku leuven,ku leuven,100.0
+university of michigan,university of milan,87.8048780487805
+georgia technology,,
+ut austin,,
+university of bristol,university of bristol,100.0
+university of ottawa,university of ottawa,100.0
+hkust,,
+university of lisbon,university of lisbon,100.0
+tel aviv university,tel aviv university,100.0
+national taiwan university,national taiwan university ntu,92.85714285714286
+charles university,charles university,100.0
+stanford university,stanford university,100.0
+mit,,
+university of oxford,university of oxford,100.0
+university of cambridge,university of cambridge,100.0
+heidelberg university,,
+eth basel,,
+tu delft,,
+ntu singapore,,
+university of waterloo,university of waterloo,100.0
+australian national university,the australian national university,93.75
+lund university,lund university,100.0
+uc san diego,,
+university of washington,university of washington,100.0
+university of alberta,university of alberta,100.0
+university of glasgow,university of glasgow,100.0
+indian institute of science,indian institute of science,100.0
+aalborg university,aalborg university,100.0
+university of warsaw,university of warsaw,100.0
+nui galway,,
+kaist,,
+university of malaya,university of malta,92.3076923076923
+uc berkeley,,
+university of manchester,the university of manchester,92.3076923076923
+university of british columbia,university of british columbia,100.0
+university of sydney,the university of sydney,90.9090909090909
+free university of berlin,,
+university of barcelona,university of babylon,86.36363636363636
+politecnico di milano,politecnico di milano,100.0
+erasmus university,,
+university of helsinki,university of helsinki,100.0
+university of oslo,university of oslo,100.0
+osaka university,osaka university,100.0
+kyoto university,kyoto university,100.0
+nagoya university,nagoya university,100.0
+tohoku university,tohoku university,100.0
+kyushu university,kyushu university,100.0
+hokkaido university,hokkaido university,100.0
+tokyo institute of technology,,
+university of tsukuba,university of tsukuba,100.0
+kobe university,kobe university,100.0
+kanazawa university,kanazawa university,100.0
+hiroshima university,hiroshima university,100.0
+university of adelaide,the university of adelaide,91.66666666666666
+university of western australia,the university of western australia,93.93939393939394
+griffith university,griffith university,100.0
+university of tasmania,university of tasmania,100.0
+university of newcastle,newcastle university,93.02325581395348
+university of wollongong,university of wollongong,100.0
+charles darwin university,charles darwin university,100.0
+james cook university,james cook university,100.0
+usc,,
+university of new england,,
+tu dresden,,
+university of stuttgart,universit t stuttgart,86.36363636363636
+tu hamburg,,
+rwth aachen,,
+kit,,
+tu darmstadt,,
+tu braunschweig,,
+university of jena,university of genoa,91.89189189189189
+leibniz university,leiden university,85.71428571428572
+university of freiburg,,
+university of pennsylvania,university of pennsylvania,100.0
+university of chicago,university of chicago,100.0
+johns hopkins,,
+vanderbilt university,vanderbilt university,100.0
+duke university,duke university,100.0
+university of wisconsin,university of wisconsin madison,85.18518518518519
+arizona state university,arizona state university,100.0
+university of colorado,university of colombo,88.37209302325581
+university of minnesota,university of minho,85.71428571428572
+uc davis,,
+university college london,,
+university of leeds,university of leeds,100.0
+university of warwick,the university of warwick,91.30434782608697
+university of sheffield,the university of sheffield,92.0
+university of birmingham,university of birmingham,100.0
+university of southampton,university of southampton,100.0
+university of nottingham,university of nottingham,100.0
+cardiff university,cardiff university,100.0
+queen s university belfast,queen s university belfast,100.0
+newcastle university,newcastle university,100.0
+mcmaster university,mcmaster university,100.0
+western university,western university,100.0
+dalhousie university,dalhousie university,100.0
+university of victoria,victoria university,92.6829268292683
+laval university,universit laval,96.7741935483871
+university of manitoba,university of manitoba,100.0
+university of regina,university of regina,100.0
+memorial university,emory university,85.71428571428572
+university of saskatchewan,university of saskatchewan,100.0
+universit de sherbrooke,universit de sherbrooke,100.0
+carnegie mellon,,
+uiuc,,
+university of calgary,university of calgary,100.0
+university of sao paulo,university of ulsan,85.71428571428572
+bogazici university,bogazi i university,94.73684210526316
+moscow state university,iowa state university,86.36363636363636
+unam,,
+national technical university,national technical university of athens,85.29411764705883
+chulalongkorn university,chulalongkorn university,100.0
+american university in dubai,american university in dubai,100.0
+columbia university,columbia university,100.0
+cornell university,cornell university,100.0
+sustech,,
+university of cape town,university of cape town,100.0
+american university in cairo,the american university in cairo,93.33333333333333
+university of buenos aires,,
+university of indonesia,universitas indonesia,86.36363636363636
+king saud university,king saud university,100.0
+university of lagos,university of lagos,100.0
+hcmut,,
+tu eindhoven,,
+university of twente,university of twente,100.0
+university of groningen,university of groningen,100.0
+maastricht university,maastricht university,100.0
+radboud university,radboud university,100.0
+tilburg university,tilburg university,100.0
+utrecht university,utrecht university,100.0
+leiden university,leiden university,100.0
+wageningen university,,
+vu amsterdam,,
+nanyang technological university,almaty technological university,85.71428571428572
+singapore management university,singapore management university,100.0
+sutd,,
+sit,,
+nus,,
+ntu,,
+sutd,,
+smu,,
+nus,,
+ntu,,
+cole polytechnique,,
+insa toulouse,,
+cole normale sup rieure lyon,cole normale sup rieure de lyon,94.91525423728814
+grenoble inp,,
+universit nice sophia antipolis,,
+university of bordeaux,university of bordeaux,100.0
+universit de lille,universit de lille,100.0
+insa rennes,,
+university of strasbourg,universit de strasbourg,89.36170212765957
+university of montpellier,universit de montpellier,85.71428571428572
+epfl,epfl,100.0
+university of geneva,university of geneva,100.0
+university of bern,university of bern,100.0
+university of st gallen,,
+usi,,
+university of fribourg,university of maribor,88.37209302325581
+university of neuchatel,,
+university of basel,university of basel,100.0
+university of lucerne,university of bern,87.17948717948718
+zhaw,,
+university of copenhagen,university of copenhagen,100.0
+aarhus university,aarhus university,100.0
+aalborg university,aalborg university,100.0
+tsinghua university,tsinghua university,100.0
+peking university,peking university,100.0
+fudan university,fudan university,100.0
+shanghai jiao tong university,shanghai jiao tong university,100.0
+zhejiang university,zhejiang university,100.0
+nanjing university,nanjing university,100.0
+sun yat sen university,sun yat sen university,100.0
+wuhan university,wuhan university,100.0
+xi an jiaotong university,xi an jiaotong university,100.0
+sichuan university,sichuan university,100.0
+seoul national university,seoul national university,100.0
+korea university,korea university,100.0
+yonsei university,yonsei university,100.0
+hanyang university,hanyang university,100.0
+sungkyunkwan university,sungkyunkwan university skku,90.19607843137256
+kaist,,
+chungnam national university,chungnam national university,100.0
+pusan national university,pusan national university,100.0
+dong a university,shandong university,88.88888888888889
+kyungpook national university,kyungpook national university,100.0
+yeungnam university,yeungnam university,100.0
+chonnam national university,chonnam national university,100.0
+chosun university,sichuan university,85.71428571428572
+ulsan national institute of science and technology,ulsan national institute of science and technology unist,94.33962264150944
+university of ulsan,university of ulsan,100.0
+postech,,
+incheon national university,chonnam national university,88.88888888888889
+sungkyunkwan university suwon,,
+hanbat national university,chonnam national university,86.79245283018868
+chungbuk national university,chungbuk national university,100.0
+stanford university,stanford university,100.0
+mit,,
+yale university,yale university,100.0
+princeton university,princeton university,100.0
+university of pennsylvania,university of pennsylvania,100.0
+ucla,ucl,85.71428571428572
+uc berkeley,,
+university of michigan,university of milan,87.8048780487805
+university of texas austin,university of texas at austin,94.54545454545455
+university of washington,university of washington,100.0
+university of wisconsin madison,university of wisconsin madison,100.0
+university of illinois urbana champaign,university of illinois at urbana champaign,96.2962962962963
+georgia technology,,
+ohio state university,the ohio state university,91.30434782608697
+purdue university,purdue university,100.0
+university of florida,university of florida,100.0
+arizona state university,arizona state university,100.0
+nc state university,kent state university,90.0
+texas a m university,texas a m university,100.0
+oregon state university,oregon state university,100.0
+university of cambridge,university of cambridge,100.0
+university of oxford,university of oxford,100.0
+imperial college london,imperial college london,100.0
+university college london,,
+king s college london,king s college london,100.0
+university of edinburgh,the university of edinburgh,92.0
+university of manchester,the university of manchester,92.3076923076923
+university of bristol,university of bristol,100.0
+university of warwick,the university of warwick,91.30434782608697
+university of glasgow,university of glasgow,100.0
+university of birmingham,university of birmingham,100.0
+university of leeds,university of leeds,100.0
+university of sheffield,the university of sheffield,92.0
+university of nottingham,university of nottingham,100.0
+university of southampton,university of southampton,100.0
+durham university,durham university,100.0
+university of liverpool,university of liverpool,100.0
+cardiff university,cardiff university,100.0
+newcastle university,newcastle university,100.0
+university of aberdeen,university of aberdeen,100.0
+university of leicester,university of leicester,100.0
+university of reading,university of reading,100.0
+university of sussex,university of sussex,100.0
+university of essex,essex university of,100.0
+university of bath,university of bath,100.0
+university of surrey,university of surrey,100.0
+university of exeter,the university of exeter,90.9090909090909
+university of kent,university of kent,100.0
+university of dundee,university of dundee,100.0
+university of strathclyde,university of strathclyde,100.0
+heriot watt university,heriot watt university,100.0
+loughborough university,loughborough university,100.0
+brunel university london,brunel university london,100.0
+queen mary university of london,queen mary university of london,100.0
+royal holloway university,,
+lancaster university,lancaster university,100.0
+swansea university,swansea university,100.0
+aston university,aston university,100.0
+university of hull,university of hull,100.0
+keele university,keele university,100.0
+university of plymouth,university of plymouth,100.0
+university of portsmouth,university of portsmouth,100.0
+ulster university,ulster university,100.0
+northumbria university,,
+coventry university,coventry university,100.0
+oxford brookes university,oxford brookes university,100.0
+de montfort university,de montfort university,100.0
+university of westminster,university of westminster,100.0
+university of greenwich,university of greenwich,100.0
+kingston university,aston university,85.71428571428572
+university of toronto,university of toronto,100.0
+university of toronto,university of toronto,100.0
+university of british columbia,university of british columbia,100.0
+university of british columbia,university of british columbia,100.0
+mcgill university,mcgill university,100.0
+mcgill university,mcgill university,100.0
+university of waterloo,university of waterloo,100.0
+university of waterloo,university of waterloo,100.0
+university of montreal,university of mons,85.0
+university of montreal,university of mons,85.0
+university of alberta,university of alberta,100.0
+university of alberta,university of alberta,100.0
+university of ottawa,university of ottawa,100.0
+university of ottawa,university of ottawa,100.0
+university of calgary,university of calgary,100.0
+university of calgary,university of calgary,100.0
+mcmaster university,mcmaster university,100.0
+mcmaster university,mcmaster university,100.0
+western university,western university,100.0
+western university,western university,100.0
+queen s university,,
+queen s university,,
+university of victoria,victoria university,92.6829268292683
+university of victoria,victoria university,92.6829268292683
+dalhousie university,dalhousie university,100.0
+dalhousie university,dalhousie university,100.0
+university of manitoba,university of manitoba,100.0
+university of manitoba,university of manitoba,100.0
+laval university,universit laval,96.7741935483871
+laval university,universit laval,96.7741935483871
+university of saskatchewan,university of saskatchewan,100.0
+university of saskatchewan,university of saskatchewan,100.0
+memorial university,emory university,85.71428571428572
+memorial university,emory university,85.71428571428572
+university of regina,university of regina,100.0
+university of regina,university of regina,100.0
+university of sherbrooke,universit de sherbrooke,89.36170212765957
+university of sherbrooke,universit de sherbrooke,89.36170212765957
+university of windsor,university of windsor,100.0
+university of windsor,university of windsor,100.0
+university of new brunswick,university of new brunswick,100.0
+university of new brunswick,university of new brunswick,100.0
+uqtr,,
+uqtr,,
+lakehead university,,
+lakehead university,,
+laurentian university,,
+laurentian university,,
+unbc,,
+unbc,,
+university of melbourne,the university of melbourne,92.0
+university of melbourne,the university of melbourne,92.0
+university of melbourne,the university of melbourne,92.0
+university of sydney,the university of sydney,90.9090909090909
+university of sydney,the university of sydney,90.9090909090909
+university of sydney,the university of sydney,90.9090909090909
+australian national university,the australian national university,93.75
+australian national university,the australian national university,93.75
+australian national university,the australian national university,93.75
+university of queensland,the university of queensland,92.3076923076923
+university of queensland,the university of queensland,92.3076923076923
+university of queensland,the university of queensland,92.3076923076923
+university of new south wales,,
+university of new south wales,,
+university of new south wales,,
+monash university,monash university,100.0
+monash university,monash university,100.0
+monash university,monash university,100.0
+university of adelaide,the university of adelaide,91.66666666666666
+university of adelaide,the university of adelaide,91.66666666666666
+university of adelaide,the university of adelaide,91.66666666666666
+university of western australia,the university of western australia,93.93939393939394
+university of western australia,the university of western australia,93.93939393939394
+university of western australia,the university of western australia,93.93939393939394
+queensland university of technology,queensland university of technology qut,94.5945945945946
+queensland university of technology,queensland university of technology qut,94.5945945945946
+queensland university of technology,queensland university of technology qut,94.5945945945946
+university of technology sydney,university of technology sydney,100.0
+university of technology sydney,university of technology sydney,100.0
+university of technology sydney,university of technology sydney,100.0
+rmit university,rmit university,100.0
+rmit university,rmit university,100.0
+rmit university,rmit university,100.0
+university of wollongong,university of wollongong,100.0
+university of wollongong,university of wollongong,100.0
+university of wollongong,university of wollongong,100.0
+university of newcastle,newcastle university,93.02325581395348
+university of newcastle,newcastle university,93.02325581395348
+university of newcastle,newcastle university,93.02325581395348
+university of tasmania,university of tasmania,100.0
+university of tasmania,university of tasmania,100.0
+university of tasmania,university of tasmania,100.0
+griffith university,griffith university,100.0
+griffith university,griffith university,100.0
+griffith university,griffith university,100.0
+university of canberra,university of canberra,100.0
+university of canberra,university of canberra,100.0
+university of canberra,university of canberra,100.0
+james cook university,james cook university,100.0
+james cook university,james cook university,100.0
+james cook university,james cook university,100.0
+university of new england,,
+university of new england,,
+university of new england,,
+university of southern queensland,university of southern queensland,100.0
+university of southern queensland,university of southern queensland,100.0
+university of southern queensland,university of southern queensland,100.0
+federation university,,
+federation university,,
+federation university,,
+southern cross university,southern cross university,100.0
+southern cross university,southern cross university,100.0
+southern cross university,southern cross university,100.0
+mit,,
+imperial college london,imperial college london,100.0
+tu munich,,
+university of toronto,university of toronto,100.0
+university of melbourne,the university of melbourne,92.0
+stanford university,stanford university,100.0
+university of edinburgh,the university of edinburgh,92.0
+humboldt university,humboldt state university,86.36363636363636
+university of british columbia,university of british columbia,100.0
+university of sydney,the university of sydney,90.9090909090909
+uc berkeley,,
+university of manchester,the university of manchester,92.3076923076923
+university of hamburg,universit t hamburg,90.0
+mcgill university,mcgill university,100.0
+university of queensland,the university of queensland,92.3076923076923
+columbia university,columbia university,100.0
+university of oxford,university of oxford,100.0
+tu dresden,,
+university of ottawa,university of ottawa,100.0
+university of western australia,the university of western australia,93.93939393939394
+georgia technology,,
+university of bristol,university of bristol,100.0
+goethe university,,
+university of calgary,university of calgary,100.0
+university of adelaide,the university of adelaide,91.66666666666666
+ucla,ucl,85.71428571428572
+university of glasgow,university of glasgow,100.0
+university of stuttgart,universit t stuttgart,86.36363636363636
+university of alberta,university of alberta,100.0
+australian national university,the australian national university,93.75
+ut austin,,
+university of leeds,university of leeds,100.0
+heidelberg university,,
+dalhousie university,dalhousie university,100.0
+griffith university,griffith university,100.0
+university of washington,university of washington,100.0
+university of sheffield,the university of sheffield,92.0
+university of cologne,university of cologne,100.0
+laval university,universit laval,96.7741935483871
+university of newcastle,newcastle university,93.02325581395348
+carnegie mellon,,
+university of nottingham,university of nottingham,100.0
+university of bonn,university of lisbon,89.47368421052632
+university of victoria,victoria university,92.6829268292683
+university of tasmania,university of tasmania,100.0
+uc san diego,,
+durham university,durham university,100.0
+rwth aachen,,
+university of manitoba,university of manitoba,100.0
+university of wollongong,university of wollongong,100.0
+uc berkeley extension,,
+king s college london,king s college london,100.0
+eth zurich,,
+sorbonne university,sorbonne university,100.0
+trinity college dublin,,
+university of chicago,university of chicago,100.0
+anglia ruskin university,,
+epfl,epfl,100.0
+university of lyon,university of lisbon,89.47368421052632
+university college cork,university college cork,100.0
+northeastern university,northeastern university,100.0
+heriot watt university,heriot watt university,100.0
+university of geneva,university of geneva,100.0
+university of toulouse,university of oulu,90.0
+nui galway,,
+university of washington,university of washington,100.0
+university of birmingham,university of birmingham,100.0
+university of basel,university of basel,100.0
+university of bordeaux,university of bordeaux,100.0
+university of limerick,university of limerick,100.0
+ut austin,,
+university of salford,university of salford,100.0
+university of st gallen,,
+university of nice,university of ni,94.11764705882352
+maynooth university,maynooth university,100.0
+university of denver,university of denver,100.0
+leeds beckett university,leeds beckett university,100.0
+university of bern,university of bern,100.0
+university of lille,university of louisville,88.37209302325581
+waterford it,,
+portland state university,portland state university,100.0
+uwe bristol,,
+usi lugano,,
+university of strasbourg,universit de strasbourg,89.36170212765957
+it sligo,,
+university of minnesota,university of minho,85.71428571428572
+cardiff university,cardiff university,100.0
+university of fribourg,university of maribor,88.37209302325581
+grenoble inp,,
+athlone it,,
+university of oslo,university of oslo,100.0
+university of helsinki,university of helsinki,100.0
+technical university berlin,georgian technical university,89.28571428571429
+university of copenhagen,university of copenhagen,100.0
+ntnu,,
+aalto university,aalto university,100.0
+lmu munich,,
+aarhus university,aarhus university,100.0
+university of bergen,university of bergen,100.0
+tampere university,tampere university,100.0
+tu dresden,,
+university of southern denmark,university of southern denmark sdu,93.75
+uit arctic university,,
+university of turku,university of turku,100.0
+tu hamburg,,
+aalborg university,aalborg university,100.0
+university of stavanger,university of stavanger,100.0
+university of oulu,university of oulu,100.0
+university of stuttgart,universit t stuttgart,86.36363636363636
+roskilde university,,
+norwegian university of life sciences,norwegian university of life sciences umb,94.87179487179486
+university of vaasa,university of warsaw,87.17948717948718
+kit,,
+technical university of denmark,technical university of denmark,100.0
+nord university,stanford university,88.23529411764706
+university of jyv skyl,university of jyv skyl,100.0
+tu darmstadt,,
+university of southern denmark,university of southern denmark sdu,93.75
+ntnu gj vik,,
+lut university,lund university,89.65517241379311
+university of bremen,university of aberdeen,90.47619047619048
+university of southern denmark,university of southern denmark sdu,93.75
+university of agder,university of derby,89.47368421052632
+university of eastern finland,university of eastern finland,100.0
+rwth aachen,,
+university of copenhagen,university of copenhagen,100.0
+university of south eastern norway,,
+university of eastern finland,university of eastern finland,100.0
+university of jena,university of genoa,91.89189189189189
+aarhus university,aarhus university,100.0
+university of auckland,the university of auckland,91.66666666666666
+northeastern university,northeastern university,100.0
+kth royal institute,,
+university of amsterdam,university of amsterdam,100.0
+university of lisbon,university of lisbon,100.0
+victoria university,victoria university,100.0
+ut austin,,
+uppsala university,uppsala university,100.0
+erasmus university,,
+university of porto,university of porto,100.0
+university of canterbury,university of canberra,86.95652173913044
+uc san diego,,
+chalmers university,charles university,91.89189189189189
+tu delft,,
+university of coimbra,university of coimbra,100.0
+university of otago,university of otago,100.0
+university of washington,university of washington,100.0
+lund university,lund university,100.0
+tu eindhoven,,
+university of minho,university of minho,100.0
+university of waikato,university of waikato,100.0
+georgia technology,,
+link ping university,link ping university,100.0
+utrecht university,utrecht university,100.0
+university of aveiro,university of aveiro,100.0
+massey university,massey university,100.0
+carnegie mellon,,
+ume university,umea university,96.55172413793103
+university of groningen,university of groningen,100.0
+university of algarve,university of calgary,90.47619047619048
+aut university,assiut university,90.32258064516128
+nc state university,kent state university,90.0
+karlstad university,,
+tilburg university,tilburg university,100.0
+utad,,
+lincoln university,lincoln university,100.0
+uc davis,,
+linnaeus university,,
+wageningen university,,
+university of madeira,university of aveiro,87.8048780487805
+universidad polit cnica de madrid,universidad polit cnica de madrid upm,94.28571428571428
+politecnico di milano,politecnico di milano,100.0
+national technical university,national technical university of athens,85.29411764705883
+tu wien,,
+unam,,
+universitat polit cnica catalunya,,
+sapienza university,,
+aristotle university,,
+tu graz,,
+tecnol gico de monterrey,tecnol gico de monterrey,100.0
+universitat de val ncia,,
+politecnico di torino,politecnico di torino,100.0
+university of patras,university of patras,100.0
+johannes kepler university,johannes kepler university linz,91.22807017543859
+universidad de guadalajara,universidad de guadalajara udg,92.85714285714286
+universidad de sevilla,universidad de sevilla,100.0
+university of bologna,university of cologne,90.47619047619048
+university of crete,university of crete,100.0
+university of salzburg,,
+udlap,,
+university of the basque country,university of the basque country,100.0
+university of florence,university of florence,100.0
+university of thessaly,,
+university of innsbruck,universit t innsbruck,90.9090909090909
+tecnologico de monterrey,,
+university of granada,university of granada,100.0
+university of naples,university of leeds,87.17948717948718
+university of ioannina,university of ioannina,100.0
+university of klagenfurt,university of klagenfurt,100.0
+universidad autonoma de yucatan,universidad autonoma de yucatan,100.0
+university of zaragoza,,
+university of pisa,university of pisa,100.0
+university of the aegean,the university of georgia,85.71428571428572
+montanuniversit t leoben,,
+cetys universidad,universidad icesi,88.23529411764706
+university of salamanca,university of salamanca,100.0
+university of padua,university of parma,89.47368421052632
+technical university of crete,technical university of kosice,88.13559322033898
+fh vorarlberg,,
+uaslp,,
+bogazici university,bogazi i university,94.73684210526316
+athens university of economics,,
+ku leuven,ku leuven,100.0
+budapest university of technology,delft university of technology,88.88888888888889
+moscow state university,iowa state university,86.36363636363636
+middle east technical university,middle east technical university,100.0
+university of macedonia,university of macau,85.71428571428572
+ghent university,ghent university,100.0
+university of debrecen,university of debrecen,100.0
+itmo university,itmo university,100.0
+ege university,ege university,100.0
+university of patras,university of patras,100.0
+vrije universiteit brussel,vrije universiteit brussel vub,92.85714285714286
+university of szeged,university of szeged,100.0
+novosibirsk state university,novosibirsk state university,100.0
+anadolu university,anadolu university,100.0
+university of crete,university of crete,100.0
+university of antwerp,university of antwerp,100.0
+university of pecs,university of pecs,100.0
+kazan federal university,,
+uludag university,lund university,87.5
+university of thessaly,,
+uclouvain,,
+szechenyi istvan university,,
+tomsk state university,tomsk state university,100.0
+akdeniz university,akdeniz niversitesi,86.48648648648648
+university of piraeus,university of patras,87.8048780487805
+hasselt university,hasselt university,100.0
+university of miskolc,university of miskolc,100.0
+ural federal university,ural federal university urfu,90.19607843137256
+erciyes university,erciyes niversitesi,86.48648648648648
+democritus university,,
+university of liege,university of leeds,89.47368421052632
+university of pannonia,university of pannonia,100.0
+samara state university,arizona state university,85.1063829787234
+selcuk university,,
+university of the aegean,the university of georgia,85.71428571428572
+university of mons,university of mons,100.0
+john von neumann university,,
+southern federal university,southern federal university,100.0
+university of sao paulo,university of ulsan,85.71428571428572
+indian institute of science,indian institute of science,100.0
+chulalongkorn university,chulalongkorn university,100.0
+cairo university,cairo university,100.0
+national university of singapore,national university of singapore nus,94.11764705882352
+university of dubai,university of dubai,100.0
+puc rio,,
+iit bombay,,
+chiang mai university,chiang mai university,100.0
+nanyang technological university,almaty technological university,85.71428571428572
+khalifa university,ahlia university,88.23529411764706
+unicamp,,
+iit delhi,,
+khon kaen university,khon kaen university,100.0
+alexandria university,alexandria university,100.0
+singapore management university,singapore management university,100.0
+american university of sharjah,american university of sharjah,100.0
+ufrgs,,
+iit madras,,
+prince of songkla university,prince of songkla university,100.0
+ain shams university,ain shams university,100.0
+singapore university of technology,swinburne university of technology,88.23529411764706
+ajman university,ajman university,100.0
+ufpe,,
+iit hyderabad,,
+prince of songkla university,prince of songkla university,100.0
+port said university,,
+sutd,,
+uae university,hue university,92.85714285714286
+ufsc,,
+iit pune,,
+suranaree university,,
+mansoura university,mansoura university,100.0
+sim global education,,
+rak university,brac university,89.65517241379311
+ufba,,
+iit kanpur,,
+thaksin university,deakin university,85.71428571428572
+aswan university,swansea university,88.23529411764706
+fujairah university,,
+university of iceland,university of iceland,100.0
+universidad nacional,,
+university of warsaw,university of warsaw,100.0
+university politehnica,,
+university of luxembourg,university of luxembourg,100.0
+university of indonesia,universitas indonesia,86.36363636363636
+university of akureyri,university of bari,85.0
+universidad de antioquia,universidad de antioquia,100.0
+jagiellonian university,jagiellonian university,100.0
+babes bolyai university,babes bolyai university,100.0
+luxembourg school of business,,
+institut teknologi bandung,,
+reykjavik university,,
+universidad del valle,universidad del valle,100.0
+wroclaw university of technology,warsaw university of technology,92.06349206349206
+politehnica university,,
+luxembourg institute of science,,
+gadjah mada university,gadjah mada university,100.0
+iceland university of arts,university of iceland,89.36170212765957
+universidad del norte,universidad del norte,100.0
+adam mickiewicz university,adam mickiewicz university poznan,88.13559322033898
+alexandru ioan cuza university,alexandru ioan cuza university,100.0
+sacred heart university,,
+institut teknologi sepuluh,,
+bifrost university,boston university,85.71428571428572
+uis,,
+gdansk university of technology,gdansk university of technology,100.0
+transilvania university,,
+miami university dolibois,,
+brawijaya university,universitas brawijaya,92.6829268292683
+lodz university of technology,lodz university of technology,100.0
+ovidius university,,
+european business university,,
+diponegoro university,diponegoro university,100.0
+agricultural university,china agricultural university,88.46153846153845
+universidad de cartagena,universidad de cartagena,100.0
+university of silesia,university of siena,90.0
+university of craiova,university of craiova,100.0
+chamber of commerce school,,
+udayana university,udayana university,100.0
+university of tunis,university of turin,89.47368421052632
+university of cyprus,university of cyprus ucy,90.9090909090909
+university of zagreb,university of zagreb,100.0
+intec,,
+mohammed v university,,
+pucp,,
+university of buenos aires,,
+university of sfax,university of pisa,88.88888888888889
+cyprus university of technology,chalmers university of technology,87.5
+university of split,university of split,100.0
+pucmm,,
+hassan ii university,,
+universidad san agustin,,
+national university of cordoba,,
+university of sousse,university of sussex,95.0
+american university cyprus,,
+university of rijeka,university of rijeka,100.0
+universidad central este,,
+university of al quaraouiyine,,
+universidad nacional de trujillo,universidad nacional de quilmes,85.71428571428572
+national university of rosario,,
+university of monastir,university of mons,90.0
+eastern mediterranean university,eastern mediterranean university,100.0
+university of osijek,university of rijeka,90.0
+ucne,,
+cadi ayyad university,,
+universidad san antonio abad,,
+national university of la plata,,
+university of gabes,university of gdansk,87.17948717948718
+university of zadar,university of zagreb,87.17948717948718
+neapolis university,,
+utesa,,
+abdelmalek essaadi university,,
+universidad de piura,universidad de piura,100.0
+national university of cuyo,,
+university of carthage,university of crete,87.8048780487805
+girne american university,american university,86.36363636363636
+university of dubrovnik,university of dubai,85.71428571428572
+mohammed i university,,
+universidad san martin,,
+universidad san francisco,,
+american university of beirut,american university of beirut aub,93.5483870967742
+university of bahrain,university of bahrain,100.0
+universidad de la republica,,
+sofia university,sophia university,90.9090909090909
+university of ghana,university of ghana,100.0
+university of science and technology,agh university of science and technology,94.73684210526316
+universidad tecnologica,,
+espol,,
+lebanese american university,lebanese american university,100.0
+royal university for women,,
+universidad ort uruguay,universidad ort uruguay,100.0
+plovdiv university,,
+kwame nkrumah university,,
+university of oran,university of tehran,89.47368421052632
+isae university,ie university,92.85714285714286
+universidad de cuenca,universidad de cuenca,100.0
+lebanese university,lebanese university,100.0
+bahrain polytechnic,,
+universidad catolica,,
+technical university varna,,
+university of cape coast,,
+university of constantine,,
+universidad latina,,
+utpl,,
+holy spirit university,,
+arabian gulf university,,
+utec,,
+burgas free university,,
+university for development,,
+badji mokhtar university,,
+quality leadership university,,
+universidad tecnica,,
+lebanese international,,
+applied science university,applied science university bahrain,86.66666666666667
+universidad de paysandu,,
+university of ruse,university of sussex,89.47368421052632
+university of health sciences,,
+university of tlemcen,university of tyumen,87.8048780487805
+universidad metropolitana,universidad metropolitana,100.0
+bangladesh university of engineering,,
+kuwait university,kuwait university,100.0
+igor sikorsky kyiv polytechnic,,
+university of ljubljana,university of ljubljana,100.0
+university of belgrade,university of belgrade,100.0
+sharif university of technology,sharif university of technology,100.0
+inha university tashkent,,
+universidad don bosco,,
+cuet,,
+american university kuwait,american university in dubai,85.18518518518519
+lviv polytechnic,,
+university of maribor,university of maribor,100.0
+university of novi sad,university of novi sad,100.0
+isfahan university of technology,isfahan university of technology,100.0
+samarkand state university,,
+universidad catolica,,
+khulna university,khulna university,100.0
+gulf university for science,,
+kharkiv polytechnic,,
+university of primorska,university of primorska,100.0
+university of nis,university of ni,96.96969696969697
+ferdowsi university,,
+bukhara state university,kansas state university,85.1063829787234
+universidad de oriente,universidad del norte,88.37209302325581
+ruet,,
+australian college kuwait,,
+odesa polytechnic,,
+university of nova gorica,,
+university of kragujevac,university of kragujevac,100.0
+shiraz university,shiraz university,100.0
+namangan institute,,
+universidad de sonsonate,universidad de sonora,88.88888888888889
+sust,,
+ack,,
+dnipro polytechnic,,
+faculty of logistics,,
+university of subotica,,
+university of tabriz,university of tabriz,100.0
+andijan state university,indiana state university,91.66666666666666
+itca fepade,,
+university of malaya,university of malta,92.3076923076923
+king saud university,king saud university,100.0
+harvard university,harvard university,100.0
+imperial college,,
+universidad politecnica,,
+politecnico di milano,politecnico di milano,100.0
+sorbonne university,sorbonne university,100.0
+usm,,
+king abdulaziz university,king abdulaziz university kau,92.5925925925926
+stanford university,stanford university,100.0
+university of cambridge,university of cambridge,100.0
+universitat de barcelona,universitat de barcelona,100.0
+sapienza university,,
+cole normale sup rieure,cole normale sup rieure de lyon,85.18518518518519
+utm,,
+kfupm,,
+uc berkeley,,
+university of oxford,university of oxford,100.0
+universidad de valencia,universitat de valencia,91.30434782608697
+politecnico di torino,politecnico di torino,100.0
+insa toulouse,,
+unimas,,
+islamic university,miami university,88.23529411764706
+massachusetts,,
+university of edinburgh,the university of edinburgh,92.0
+universidad de sevilla,universidad de sevilla,100.0
+university of bologna,university of cologne,90.47619047619048
+aix marseille university,aix marseille university,100.0
+multimedia university,multimedia university mmu,91.30434782608697
+imam abdulrahman university,,
+columbia university,columbia university,100.0
+university of manchester,the university of manchester,92.3076923076923
+universidad de granada,universidad de panama,88.37209302325581
+university of florence,university of florence,100.0
+university of bordeaux,university of bordeaux,100.0
+ukm,,
+taif university,tokai university,90.32258064516128
+ucla,ucl,85.71428571428572
+university of bristol,university of bristol,100.0
+university of the basque country,university of the basque country,100.0
+university of naples,university of leeds,87.17948717948718
+university of nice,university of ni,94.11764705882352
+utem,,
+university of tabuk,university of tabuk,100.0
+university of chicago,university of chicago,100.0
+university of glasgow,university of glasgow,100.0
+university of salamanca,university of salamanca,100.0
+university of pisa,university of pisa,100.0
+university of lille,university of louisville,88.37209302325581
+uitm,,
+umm al qura university,umm al qura university,100.0
+stanford university,stanford university,100.0
+university of leeds,university of leeds,100.0
+university of zaragoza,,
+university of padua,university of parma,89.47368421052632
+university of strasbourg,universit de strasbourg,89.36170212765957
+usim,,
+king faisal university,king faisal university,100.0
+university of washington,university of washington,100.0
+university of nottingham,university of nottingham,100.0

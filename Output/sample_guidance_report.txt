@@ -1,0 +1,33 @@
+============================================================
+AI ASSISTED STUDY ABROAD GUIDANCE REPORT
+============================================================
+
+Student: Demo Student
+Academic Profile: 8.0 (Good academic record)
+Budget Category: 2500000 (Moderate financial allocation)
+
+🌍 COUNTRY RECOMMENDATION
+• Australia (Match Score: 86.92)
+• UK (Match Score: 83.75)
+• Germany (Match Score: 82.91)
+
+🎓 UNIVERSITY RECOMMENDATIONS
+• Technical University of Munich (Match Score: 92.26)
+• Imperial College London (Match Score: 91.0)
+• Imperial College London (Match Score: 91.0)
+
+💰 SCHOLARSHIP OPPORTUNITIES
+• Computer Science Scholarship (Match Score: 64.51)
+• Computer Engineering and Computer Science Scholarship (Match Score: 61.53)
+• Dean&#039;s Computer Science Transfer Scholarship (Match Score: 55.62)
+
+📋 NEXT ACTION PLAN
+1. Review the top recommended countries.
+2. Compare university programs and costs.
+3. Verify official admission requirements.
+4. Check scholarship eligibility and deadlines.
+5. Prepare required application documents.
+6. Apply through official university portals.
+
+⚠️ IMPORTANT
+Recommendations are decision-support results generated from available datasets. Students should verify current requirements, fees, deadlines, and visa rules from official sources.
