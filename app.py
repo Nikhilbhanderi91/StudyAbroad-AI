@@ -1,6 +1,13 @@
 import os
-import streamlit as st
+import sys
 from pathlib import Path
+
+# Ensure project root is in python path
+ROOT_DIR = Path(__file__).resolve().parent
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
+
+import streamlit as st
 from utils.config import FAISS_INDEX_PATH
 from utils.profile import StudentProfile
 from build_knowledge_base import build_complete_knowledge_base
